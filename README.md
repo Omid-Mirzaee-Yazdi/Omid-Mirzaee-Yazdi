@@ -2,4 +2,4 @@
 - 👀 I’m interested in Front-end developement specifically React and Next js
 - 🌱 I’m currently learning more React and Next js
 - 💞️ I will keep on learning even more React and Next js
-- 📫 You can react me via email 80.m.omid@gmail.com
+- 📫 You can reach me via email 80.m.omid@gmail.com
